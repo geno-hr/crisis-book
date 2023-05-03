@@ -466,7 +466,7 @@ body, #container-wrap { background:#ededed; }
 	width:172px !important;
 	height:86px !important;
 	left:1748px !important;
-	top:1334px !important;
+	top:1360px !important;
 }
 
 @keyframes fadein-3787 {
@@ -604,6 +604,171 @@ body, #container-wrap { background:#ededed; }
 	top:213px !important;
 }
 
+@keyframes fadein-5148 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fadein-5148 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item5148 {
+	width:1478px !important;
+	height:658px !important;
+	left:185px !important;
+	top:450px !important;
+}
+
+@keyframes fadein-5187 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fadein-5187 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item5187 {
+	width:149px !important;
+	height:74px !important;
+	left:185px !important;
+	top:324px !important;
+}
+
+@keyframes fadein-5203 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fadein-5203 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item5203 {
+	width:1648px !important;
+	height:67px !important;
+	left:185px !important;
+	top:213px !important;
+}
+
+@keyframes fadein-5025 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fadein-5025 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item5025 {
+	width:1478px !important;
+	height:658px !important;
+	left:185px !important;
+	top:526px !important;
+}
+
+@keyframes fadein-5050 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fadein-5050 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item5050 {
+	width:149px !important;
+	height:74px !important;
+	left:360px !important;
+	top:400px !important;
+}
+
+@keyframes fadein-5066 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fadein-5066 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item5066 {
+	width:149px !important;
+	height:74px !important;
+	left:185px !important;
+	top:400px !important;
+}
+
+@keyframes fadein-5084 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fadein-5084 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item5084 {
+	width:1639px !important;
+	height:145px !important;
+	left:185px !important;
+	top:213px !important;
+}
+
+@keyframes fadein-4917 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fadein-4917 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item4917 {
+	width:1478px !important;
+	height:658px !important;
+	left:185px !important;
+	top:526px !important;
+}
+
+@keyframes fadein-4942 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fadein-4942 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item4942 {
+	width:149px !important;
+	height:74px !important;
+	left:360px !important;
+	top:400px !important;
+}
+
+@keyframes fadein-4957 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fadein-4957 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item4957 {
+	width:149px !important;
+	height:74px !important;
+	left:185px !important;
+	top:400px !important;
+}
+
+@keyframes fadein-4972 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fadein-4972 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item4972 {
+	width:1639px !important;
+	height:145px !important;
+	left:185px !important;
+	top:213px !important;
+}
+
 @keyframes fadein-4412 {
 	0% {opacity:0;}
 	100% {opacity:1;}
@@ -614,7 +779,7 @@ body, #container-wrap { background:#ededed; }
 }
 #item4412 {
 	width:1515px !important;
-	height:992px !important;
+	height:814px !important;
 	left:185px !important;
 	top:508px !important;
 }
@@ -634,6 +799,21 @@ body, #container-wrap { background:#ededed; }
 	top:396px !important;
 }
 
+@keyframes fadein-5317 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fadein-5317 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item5317 {
+	width:149px !important;
+	height:74px !important;
+	left:185px !important;
+	top:1360px !important;
+}
+
 @keyframes fadein-4456 {
 	0% {opacity:0;}
 	100% {opacity:1;}
@@ -647,6 +827,36 @@ body, #container-wrap { background:#ededed; }
 	height:145px !important;
 	left:185px !important;
 	top:213px !important;
+}
+
+@keyframes fadein-5257 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fadein-5257 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item5257 {
+	width:149px !important;
+	height:74px !important;
+	left:360px !important;
+	top:396px !important;
+}
+
+@keyframes fadein-5362 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fadein-5362 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item5362 {
+	width:1515px !important;
+	height:814px !important;
+	left:185px !important;
+	top:508px !important;
 }
 
 @keyframes fadein-4322 {
